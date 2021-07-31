@@ -6,7 +6,7 @@ const theOldWay = (course)=> `I am currently enrolled in ${course}`;
 
 
 // TODO: Uncomment the following line of code to see the output in the browser console
- console.log('The old way:', theOldWay('Code 301'));
+//  console.log('The old way:', theOldWay('Code 301'));
 
 
 // STEP 2
@@ -16,7 +16,7 @@ const theNewWay = (course) => `I am currently enrolled in ${course}`;
 
 
 // TODO: Uncomment the following line of code to see the output in the browser console
-console.log('The new way:', theNewWay('Code 301'));
+// console.log('The new way:', theNewWay('Code 301'));
 
 
 // STEP 3
